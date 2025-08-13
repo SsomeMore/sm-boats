@@ -35,5 +35,6 @@ server_scripts {
 
 dependencies {
     'rsg-core',
+    'jo_libs',
     'oxmysql'
 }
